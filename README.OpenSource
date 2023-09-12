@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_crc32c",                   # 上游开源软件名全称
+        "Name": "crc32c",                   # 上游开源软件名全称
         "License":         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE"       # 许可证所在文件路径
         "Version Number": "fa5ade41ee480003d9c5af6f43567ba22e4e17e6",
