@@ -1,9 +1,10 @@
 [
     {
         "Name": "crc32c",                   # 上游开源软件名全称
-        "License":         # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE"       # 许可证所在文件路径
+        "License": "BSD-3-Clause",        # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE",      # 许可证所在文件路径
         "Version Number": "fa5ade41ee480003d9c5af6f43567ba22e4e17e6",
+        "Owner": "liujixin@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/crc32c.git@fa5ade41ee480003d9c5af6f43567ba22e4e17e6",   # 上游软件包发布地址
         "Description": "第三方软件crc32c"           # 开源软件功能描述
     }
