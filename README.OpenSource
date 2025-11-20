@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "crc32c",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE",
+        "Version Number": "d3d60ac6e0f16780bcfcc825385e1d338801a558",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/crc32c.git@d3d60ac6e0f16780bcfcc825385e1d338801a558",
+        "Description": "第三方软件crc32c,iSCSI和SCTP数据校验的算法"
+    }
+]
